@@ -1,0 +1,4 @@
+[{c:"#c9c9b5",t:"#606660",a:7,f:5,w:1.5},"<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>",{a:4,f:4},"C\n\nc","T\nD\nt\nd","O\nÖ\no\nö","H\nĞ\nh\nğ",{a:7,f:5},"print",{a:4,f:4},"K\nG\nk\ng","Š\n\n\nŽ","U\nÜ\nu\nü","R\n\nr",{x:0.25,a:7,f:6,w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},"СССР"],
+[{f:5,w:1.25},"Sholes",{a:4,f:4},"S\nZ\ns\nz",{n:true},"A\nÄ\na\nä","E\nË\ne\në","Õ\nI\nõ\ni",{a:7,f:5,w:1.5},"del",{a:4,f:4},"P\nB\np\nb","L\n\nl",{f:5,n:true},"Y\n\ny",{f:4},"F\nV\nf\nv"],
+[{a:7,f:5},"p↑",{a:4},";\n\"\n,\n'","<\n{\n(\n[",{f:4},"Ç\nJ\nç\nj","N\n\nn",{f:5},"_\n=\n-\n+","?\n\\\n!\n/",{f:4},"M\n\nm","Q\nW\nq\nw",{f:5},">\n}\n)\n]",":\n|\n.\n°",{a:7},"p↓"],
+[{x:1.25,a:4},"\n←\n\n\n\n\n\n\n\nstrt",{a:7,w:1.25},"strogg (ctrl)",{w:1.25},"shift",{w:1.25},"___",{w:1.25},"alt",{w:1.25},"alt gr",{w:1.25},"kett (fn)",{a:4},"\n→\n\n\n\n\n\n\n\nend"]
