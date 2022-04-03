@@ -39,4 +39,4 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
  Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
  
  ps: lately vial have been giving errors, but locally still compiles fine. needs investigating
- 
+  (also, rgb is borked in current version- was experimental feature anyway)
