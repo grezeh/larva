@@ -44,3 +44,5 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
   oktoberfest'22- open sause the thing! 
   
   [now to need to make house in order, so noone brakes legs here. will upload simplified keymap later]
+  
+  feedback on possible schematics flaws/improvements is appreciated
