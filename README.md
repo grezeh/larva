@@ -40,4 +40,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
  
  ps: lately vial have been giving errors, but locally still compiles fine. needs investigating
   (also, rgb is borked in current version- was experimental feature anyway, cut in version 2.1-light)
-  oktoberfest'22- open sause the thing! [now to need to make house in order, so noone brakes legs here. will upload simplified keymap later]
+  
+  oktoberfest'22- open sause the thing! 
+  
+  [now to need to make house in order, so noone brakes legs here. will upload simplified keymap later]
