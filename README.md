@@ -12,10 +12,10 @@ of combined, adaptable, extended latin+cyrillic keymap and layout with better er
 I name the whole research project "mnemoNИk|Kombine". 
 
  Larva PCB+custom plate fits in "daisy40% hhkb" keyboard case by Kprepublic.
-Larva mk1 has 4 through-hole LED positions, no rgb. Mk2 has in addition 2 rgb smd LED slots for up-facing SK6812MINI-E LEDs 
+Larva mk1 has 4 through-hole LED positions, no rgb, uses *AU mcu. Mk2 has in addition 2 rgb smd LED slots for up-facing SK6812MINI-E LEDs 
 and 2 pre-assembled mono-color smd LEDs as alternative to 2 lower through-hole LEDs(facedown, was an experimental feature)
-and a few small QoL improvements. 2.1-light version cuts rgb and goes open-source.
-Current software-side implementation consists of QMK+custom Windows keymap.
+and a few small QoL improvements and uses *MU mcu. Mk 2.1-light version cuts rgb and goes open-source.
+Current software-side implementation consists of QMK/vial +custom Windows keymap.
  For activating the bootloader: press the RST button on the back of the pcb.
 
  (The keyboard design line is constantly evolving, can differ in shapes and sizes, but all serve the same ultimate goal.
