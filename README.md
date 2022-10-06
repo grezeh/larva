@@ -14,7 +14,7 @@ I name the whole research project "mnemoNИk|Kombine".
  Larva PCB+custom plate fits in "daisy40% hhkb" keyboard case by Kprepublic.
 Larva mk1 has 4 through-hole LED positions, no rgb. Mk2 has in addition 2 rgb smd LED slots for up-facing SK6812MINI-E LEDs 
 and 2 pre-assembled mono-color smd LEDs as alternative to 2 lower through-hole LEDs(facedown, was an experimental feature)
-and a few small QoL improvements.
+and a few small QoL improvements. 2.1-light version cuts rgb and goes open-source.
 Current software-side implementation consists of QMK+custom Windows keymap.
  For activating the bootloader: press the RST button on the back of the pcb.
 
@@ -39,4 +39,5 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
  Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
  
  ps: lately vial have been giving errors, but locally still compiles fine. needs investigating
-  (also, rgb is borked in current version- was experimental feature anyway)
+  (also, rgb is borked in current version- was experimental feature anyway, cut in version 2.1-light)
+  oktoberfest'22- open sause the thing! [now to need to make house in order, so noone brakes legs here. will upload simplified keymap later]
