@@ -16,6 +16,9 @@ Larva mk1 has 4 through-hole LED positions, no rgb, uses *AU mcu. Mk2 has in add
 and 2 pre-assembled mono-color smd LEDs as alternative to 2 lower through-hole LEDs(facedown, was an experimental feature)
 and a few small QoL improvements. Mk2.1-light version cuts rgb and goes open-source. [Mk3 was planned to transition to *MU mcu.] Pcbs routed by MarvFPV
 Current software-side implementation consists of QMK/vial +custom Windows keymap.
+
+Default keymap is basic latin+ numpad keys (so have more possibilities to reprogam); top-mid led is programmed as Num.Lock and it's engaged (put your novelties there and light them up; engaged numlock enables better bottom row options).
+
  For activating the bootloader: press the RST button on the back of the pcb.
 
  (The keyboard design line is constantly evolving, can differ in shapes and sizes, but all serve the same ultimate goal.
@@ -43,6 +46,6 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
   
   oktoberfest'22- open sause the thing! 
   
-  [now need to make "house in order", so noone brakes legs here. will upload simplified keymap later]
+  (now need to make "house in order", so noone brakes legs here. will upload simplified keymap later. Basically: need to upload qmk and vial files here, in addition to keymap)
   
   feedback on possible schematics flaws/improvements is appreciated
