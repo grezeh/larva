@@ -14,7 +14,7 @@ I name the whole research project "mnemoNИk|Kombine".
  Larva PCB+custom plate fits in "daisy40% hhkb" keyboard case by Kprepublic.
 Larva mk1 has 4 through-hole LED positions, no rgb, uses *AU mcu. Mk2 has in addition 2 rgb smd LED slots for up-facing SK6812MINI-E LEDs 
 and 2 pre-assembled mono-color smd LEDs as alternative to 2 lower through-hole LEDs(facedown, was an experimental feature)
-and a few small QoL improvements and uses *MU mcu. Mk2.1-light version cuts rgb and goes open-source. Pcbs routed by MarvFPV
+and a few small QoL improvements. Mk2.1-light version cuts rgb and goes open-source. [Mk3 was planned to transition to *MU mcu.] Pcbs routed by MarvFPV
 Current software-side implementation consists of QMK/vial +custom Windows keymap.
  For activating the bootloader: press the RST button on the back of the pcb.
 
