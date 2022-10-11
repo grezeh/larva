@@ -31,11 +31,11 @@ Default keymap is basic latin+ numpad keys (so have more possibilities to reprog
 
 QMK hex file compilation for this keyboard (after setting up your build environment,in QMK SYS for Qmk Toolbox):
 
-    qmk compile -kb grezeh/larva/larva2 -km default
+    qmk compile -kb grezeh/larva/larva2 -km default (compiles locally, needs to go upstream at one point)
 
 VIAL hex file compilation:
     
-	qmk compile -kb grezeh/larva/larva2 -km vial
+	qmk compile -kb grezeh/larva/larva2 -km vial (compiles locally. from vial git repo- not with recent changes; need to investigate, what new they implemented)
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools)
  and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
