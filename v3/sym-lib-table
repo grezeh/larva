@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Mx)(type Legacy)(uri "${KIPRJMOD}/../MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name KeebParts)(type Legacy)(uri "${KIPRJMOD}/../random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name kicadkeebparts)(type Legacy)(uri C:/Users/marvf/Documents/GitHub/Annelise/kicad-keyboard-parts/kicad-various.lib)(options "")(descr ""))
+)
