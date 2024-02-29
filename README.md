@@ -5,6 +5,9 @@ larva keyboard related sketches, materials, etc
 
 ![larva](https://user-images.githubusercontent.com/61553650/132993572-15b619b2-919a-49bb-8439-0263a30d82ef.png)
 
+Mk.3 options:
+![larva mk.3](https://github.com/grezeh/larva/blob/main/larva3%20layout%20kle%202.png)
+
  Larva keyboard is designed as part of a personal platform for research 
 of combined, adaptable, extended latin+cyrillic keymap and layout with better ergonomics for day-to-day use.
 
