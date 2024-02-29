@@ -12,17 +12,24 @@ of combined, adaptable, extended latin+cyrillic keymap and layout with better er
 I name the whole research project "mnemoNИk|Kombine". 
 
  Larva PCB+custom plate fits in "daisy40% hhkb" keyboard case by Kprepublic.
-Larva mk1 has 4 through-hole LED positions, no rgb, uses *AU mcu. Mk2 has in addition 2 rgb smd LED slots for up-facing SK6812MINI-E LEDs 
-and 2 pre-assembled mono-color smd LEDs as alternative to 2 lower through-hole LEDs(facedown, was an experimental feature)
-and a few small QoL improvements. Mk2.1-light version cuts rgb and goes open-source. [Mk3 was planned to transition to *MU mcu.] Pcbs routed by MarvFPV
-Current software-side implementation consists of QMK/vial +custom Windows keymap.
+Larva mk1 has 4 through-hole LED positions, no rgb, uses *AU mcu.
 
-Default keymap is basic latin+ numpad keys (so have more possibilities to reprogam); top-mid led is programmed as Num.Lock and it's engaged (put your novelties there and light them up; engaged numlock enables better bottom row options).
+Mk2 has in addition 2 rgb smd LED slots for up-facing SK6812MINI-E LEDs 
+and 2 pre-assembled mono-color smd LEDs as alternative to 2 lower through-hole LEDs(facedown, was an experimental feature)
+and a few small QoL improvements. 
+
+Mk2.1-light version cuts rgb and goes open-source. Pcbs routed by MarvFPV
+
+Mk.3 pcb outline made smaller, to additionally fit "poseidon40" case by kprepublic. Added one more bottom row option and total-non-stab option (without iso enter). Modded by JLW, according to my specs (will see after the proto-run, how were the assumptions).
+
+Current software-side implementation consists of QMK/vial +custom Windows keymap (needs updating).
+
+Default keymap is basic latin+ numpad keycodes (looks chaotic, but gives more possibilities to reprogam); top-mid led is programmed as Num.Lock and it's engaged (put your novelties there and light them up; engaged numlock enables better bottom row options).
 
  For activating the bootloader: press the RST button on the back of the pcb.
 
  (The keyboard design line is constantly evolving, can differ in shapes and sizes, but all serve the same ultimate goal.
- Current line consists of: Larva mk1; Larva mk2; Katerpillar; Katerpillar Infiltrator; Wodka; Wolof; Dragonfly; Butterfly; Mothra; Stargate; Galaga)
+ Current line consists of: Larva mk1\mk2\mk2.1\mk3; Katerpillar; Katerpillar Infiltrator; Wodka; Wolof; Dragonfly; Butterfly; Mothra; Stargate; Galaga mk.1\mk.2\mk.3; Boardstroll)
 
 
 * Keyboard Maintainer: [grezeh](https://github.com/grezeh)
